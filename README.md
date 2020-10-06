@@ -1,10 +1,8 @@
 # Python 3 Cheat Sheets
 
-## An introductory PDF text for Python
-## Scientific Computing 118 Supplement
-## Sejin Kim, Kenyon College
-## PD Open Text
-## Open under the WTFPL License
+## An introductory PDF text for Python, Scientific Computing 118 Supplement
+### Sejin Kim, Kenyon College
+### PD Open Text, open under the WTFPL License
 
 ---
 
