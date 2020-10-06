@@ -353,7 +353,7 @@ If you were to run this script, you would find that since a is zero, the first t
 
 Loops are a critical part of any complex program. They allow you to specifically control the flow of your program without actually having to copy and paste the same code, multiple times. They rely on conditional logic to control them.
 
-A word of warning when using loops: it is possible for loops to grow uncontrollably. If you do not implement your logic correctly, you could feasibly end up with an infinite loop. The only way to break this loop would be to terminate the program or wait for it to crash when it runs out of memory.
+A word of printing when using loops: it is possible for loops to grow uncontrollably. If you do not implement your logic correctly, you could feasibly end up with an infinite loop. The only way to break this loop would be to terminate the program or wait for it to crash when it runs out of memory.
 
 There are two fundamental loops in Python: `for` and `while`.
 
@@ -388,11 +388,11 @@ for d in range(2,9):
   print(d)
 ```
 
-In this example, we’re declaring an integer variable `d` and initializing it to be 2. Then, in our loop, we’re iterating from 2 to 9. 
+In this example, we’re declaring an integer variable `d` and initializing it to be 2. Then, in our loop, we’re iterating from 2 to 9.
 
 Be careful to not confuse the condition with the loop, though. It is possible to put a boolean condition in that continues when the boolean is false. Remember that the loop looks at whether the condition itself is true, not the state of the condition. For example, look at the following code.
 
-```
+```python
 varsityAthlete = false
 for varsityAthlete == false:
   print('not a varsity athlete')
@@ -581,7 +581,7 @@ print(hallTypes[0])
 
 The expected output of this should be the following.
 
-```python
+```
 Lewis
 fresh
 ```
@@ -612,7 +612,7 @@ print(A)
 This should print the following.
 
 ```
-{'c', 'o', 'm', 'p', 's', 'c', 'i'}
+{'s', 'm', 'i', 'p', 'c', 'o'}
 ```
 
 We can also use a for loop to iterate over the elements in a set. Consider the following example.
@@ -625,7 +625,7 @@ for j in perfect:
 
 We might get the following output, though this might differ based on your Python interpreter. Again, sets aren’t picky about the order that they’re in.
 
-```python
+```
 496
 28
 6
@@ -783,22 +783,22 @@ Let’s say I had a bunch of functions: `calculate_grade()`, `list_students()`, 
 
 ```python
 class grades:
-    calculate_grade(name):
+    def calculate_grade(name):
         grade = database_access(name)
         return grade
-    list_students():
+    def list_students():
         students = []
         students = database_access_names()
         return students
-    delete_student():
+    def delete_student():
         remove_student(name)
         return 0
 class food:
-    breakfast_menu(date):
+    def breakfast_menu(date):
         return(breakmenu(date))
-    lunch_menu(date):
+    def lunch_menu(date):
         return(lunchmenu(date))
-    account_money(name):
+    def account_money(name):
         return(acct_money_access(name))
 ```
 
@@ -889,7 +889,7 @@ Consider the following code.
 
 ```python
 def add(num1, num2):
-    result = num1 + num2
+    result = int(num1 + num2)
     return result
 add(1, 2, 3)
 ```
@@ -898,28 +898,28 @@ What if my user put in a third argument? Well, the Python syntax has been broken
 
 ```python
 def add(num1, num2):
-    result = num1 + num2
+    result = int(num1 + num2)
     return result
 try:
     add(1, 2, 3)
 except:
-    warn("Something went wrong!")
+    print("Something went wrong!")
 ```
 
-Observe how we’ve added two new blocks: a `try` and an `except`ion. Python will try to execute the code inside of the try block. If it cannot, then it will move onto the exception. 
+Observe how we’ve added two new blocks: a `try` and an `except`ion. Python will try to execute the code inside of the try block. If it cannot, then it will move onto the exception.
 
 In this example, I’ve had Python output a pretty vague error message: “Something went wrong!” This is great if I want to test a user’s input. For example, consider the following code.
 
 ```python
 def add(num1, num2):
-    result = num1 + num2
+    result = int(num1 + num2)
     return result
 try:
     num1 = int(input("Input a number: "))
     num2 = int(input("Input another number: "))
     print("Result: " + add(num1, num2))
 except:
-    warn("Did you put in integers?")
+    print("Did you put in integers?")
 ```
 
 Now, if my user inputs in a float instead of an integer, when I try to run this program, instead of outputting a cryptic Python error message with a traceback, it asks the user if they put in integers.
@@ -930,12 +930,12 @@ What if we want to get the cryptic error message? Let’s say we’re running ou
 
 ```python
 def add(num1, num2):
-    result = num1 + num2
+    result = int(num1 + num2)
     return result
 list = [1, 2, 3, 4, "Stinky Pete"]
 for i in list:
     try:
-        print(add(i+i))
+        print(add(i, i))
     except:
         print("Something went wrong!")
 ```
@@ -946,15 +946,15 @@ Thankfully, Python has a way to deal with this.
 
 ```python
 def add(num1, num2):
-    result = num1 + num2
+    result = int(num1 + num2)
     return result
 list = [1, 2, 3, 4, "Stinky Pete"]
 for i in list:
     try:
-        print(add(i+i))
+        print(add(i, i))
     except Exception as e:
         print("Something went wrong!")
-        warn(e)
+        print(e)
 ```
 
 If an exception is generated because something in the try block is syntactically incorrect, put that exception into the variable named e (a common standard for exceptions) and print a warning with that exception message.
@@ -963,15 +963,15 @@ Everything outside of the try-except block still gets run. Consider the followin
 
 ```python
 def add(num1, num2):
-    result = num1 + num2
+    result = int(num1 + num2)
     return result
 list = [1, 2, 3, 4, "Stinky Pete"]
 for i in list:
     try:
-        print(add(i+i))
+        print(add(i, i))
     except Exception as e:
         print("Something went wrong!")
-        warn(e)
+        print(e)
 print("All done!")
 ```
 
