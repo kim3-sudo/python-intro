@@ -996,16 +996,16 @@ The file variable contains the entire text file in memory, which I can then mani
 
 ```python
 file = open("soccer.txt", "r")
-print(soccer.readline())
+print(file.readline())
 ```
 
 In fact, I can call readline multiple times to read multiple lines.
 
 ```python
 file = open("soccer.txt", "r")
-print(soccer.readline())
-print(soccer.readline())
-print(soccer.readline())
+print(file.readline())
+print(file.readline())
+print(file.readline())
 ```
 
 The above example will read the first three lines. Likewise, I could loop through the entire file.
@@ -1044,6 +1044,9 @@ import csv
 with open("soccer.txt", "a", newline = '') as file:
     writer = csv.writer(file, delimiter = ',', quotechar = '', quoting = csv.QUOTE_MINIMAL)
     writer.writerow(['Sven Bender', 'Germany', 'NULL', 'NULL', 'Bor. Dortmund', 'Res', '6', '07/01/2009', '2021', '81', '186 cm', '78 kg', 'Right', '04/27/1989', '27', 'CB/CDM'])
+file.close()
+file = open("soccer.txt", "r")
+print(file.readline())
 file.close()
 ```
 
