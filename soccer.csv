@@ -1,101 +1,101 @@
-name,nationality,nat_position,nat_kit,club,club_position,club_kit,club_join,contract_expiration,rate,height,weight,pref_foot,birth,age,pref_position
-Cristiano Ronaldo,Portugal,LS,7,Real Madrid,LW,7,07/01/09,2021,94,185 cm,80 kg,Right,02/05/85,32,LW/ST
-Lionel Messi,Argentina,RW,10,FC Barcelona,RW,10,07/01/04,2018,93,170 cm,72 kg,Left,06/24/87,29,RW
-Neymar,Brazil,LW,10,FC Barcelona,LW,11,07/01/13,2021,92,174 cm,68 kg,Right,02/05/92,25,LW
-Luis Suárez,Uruguay,LS,9,FC Barcelona,ST,9,07/11/14,2021,92,182 cm,85 kg,Right,01/24/87,30,ST
-Manuel Neuer,Germany,GK,1,FC Bayern,GK,1,07/01/11,2021,92,193 cm,92 kg,Right,03/27/86,31,GK
-De Gea,Spain,GK,1,Manchester Utd,GK,1,07/01/11,2019,90,193 cm,82 kg,Right,11/07/90,26,GK
-Robert Lewandowski,Poland,LS,9,FC Bayern,ST,9,07/01/14,2021,90,185 cm,79 kg,Right,08/21/88,28,ST
-Gareth Bale,Wales,RS,11,Real Madrid,RW,11,09/02/13,2022,90,183 cm,74 kg,Left,07/16/89,27,RW
-Zlatan Ibrahimovic,Sweden,NULL,NULL,Manchester Utd,ST,9,07/01/16,2017,90,195 cm,95 kg,Right,10/03/81,35,ST
-Thibaut Courtois,Belgium,GK,1,Chelsea,GK,13,07/26/11,2019,89,199 cm,91 kg,Left,05/11/92,24,GK
-Jérôme Boateng,Germany,RCB,17,FC Bayern,Sub,17,07/14/11,2021,89,192 cm,90 kg,Right,09/03/88,28,CB
-Eden Hazard,Belgium,LF,10,Chelsea,LW,10,07/01/12,2020,89,173 cm,74 kg,Right,01/07/91,26,LW/LM
-Luka Modric,Croatia,NULL,NULL,Real Madrid,RCM,19,08/01/12,2020,89,174 cm,65 kg,Right,09/09/85,31,CM/CDM
-Mesut Özil,Germany,CAM,10,Arsenal,CAM,11,09/02/13,2018,89,180 cm,76 kg,Left,10/15/88,28,CAM/LW
-Gonzalo Higuaín,Argentina,Sub,9,Juventus,ST,9,07/26/16,2021,89,184 cm,92 kg,Right,12/10/87,29,ST
-Thiago Silva,Brazil,Sub,14,PSG,LCB,2,07/01/12,2020,89,183 cm,79 kg,Right,09/22/84,32,CB
-Sergio Ramos,Spain,LCB,15,Real Madrid,LCB,4,08/01/05,2020,89,183 cm,75 kg,Right,03/30/86,31,CB
-Sergio Agüero,Argentina,Sub,7,Manchester City,ST,10,07/28/11,2020,89,173 cm,70 kg,Right,06/02/88,28,ST
-Paul Pogba,France,NULL,NULL,Manchester Utd,LCM,6,08/09/16,2021,88,191 cm,84 kg,Right,03/15/93,24,CM/CAM
-Antoine Griezmann,France,CAM,7,Atlético Madrid,RS,7,07/29/14,2021,88,176 cm,67 kg,Left,03/21/91,26,ST/LW
-Kevin De Bruyne,Belgium,RCM,7,Manchester City,RCM,17,08/30/15,2021,88,181 cm,68 kg,Right,06/28/91,25,CAM/RM/LM
-Marco Reus,Germany,NULL,NULL,Bor. Dortmund,LW,11,07/01/12,2019,88,182 cm,76 kg,Right,05/31/89,27,LM/CAM
-Alexis Sánchez,Chile,LW,7,Arsenal,ST,7,07/10/14,2018,88,169 cm,62 kg,Right,12/19/88,28,ST/RM
-Toni Kroos,Germany,LDM,8,Real Madrid,LCM,8,07/17/14,2022,88,182 cm,78 kg,Right,01/04/90,27,CM/CDM
-Diego Godín,Uruguay,LCB,3,Atlético Madrid,LCB,2,08/01/10,2019,88,185 cm,73 kg,Right,02/16/86,31,CB
-Mats Hummels,Germany,LCB,5,FC Bayern,LCB,5,07/01/16,2021,88,191 cm,92 kg,Right,12/16/88,28,CB
-Hugo Lloris,France,GK,1,Spurs,GK,1,08/01/12,2022,88,188 cm,82 kg,Left,12/26/86,30,GK
-Giorgio Chiellini,Italy,LCB,3,Juventus,LCB,3,07/01/05,2018,88,187 cm,84 kg,Left,08/14/84,32,CB
-Philipp Lahm,Germany,NULL,NULL,FC Bayern,RB,21,11/01/02,2018,88,170 cm,66 kg,Right,11/11/83,33,RB/CM
-Pepe,Portugal,RCB,3,Real Madrid,RCB,3,07/01/07,2017,88,188 cm,81 kg,Right,02/26/83,34,CB
-Petr Cech,Czech Republic,NULL,NULL,Arsenal,GK,33,06/29/15,2019,88,196 cm,90 kg,Left,05/20/82,34,GK
-Gianluigi Buffon,Italy,GK,1,Juventus,GK,1,07/01/01,2018,88,192 cm,91 kg,Right,01/28/78,39,GK
-Iniesta,Spain,LCM,6,FC Barcelona,LM,8,07/01/02,2018,88,171 cm,68 kg,Right,05/11/84,32,CM
-Jan Oblak,Slovenia,GK,1,Atlético Madrid,GK,13,07/17/14,2021,87,189 cm,87 kg,Right,01/07/93,24,GK
-James Rodríguez,Colombia,LAM,10,Real Madrid,CAM,10,07/22/14,2020,87,180 cm,75 kg,Left,07/12/91,25,CAM/RM
-Pierre-Emerick Aubameyang,Gabon,NULL,NULL,Bor. Dortmund,ST,17,07/04/13,2020,87,187 cm,80 kg,Right,06/18/89,27,ST/RM
-Leonardo Bonucci,Italy,CB,19,Juventus,RCB,19,07/01/10,2021,87,190 cm,85 kg,Right,05/01/87,29,CB
-Arturo Vidal,Chile,CDM,8,FC Bayern,LDM,23,07/28/15,2019,87,180 cm,75 kg,Right,05/22/87,29,CM/CDM
-Ivan Rakitic,Croatia,NULL,NULL,FC Barcelona,CAM,4,06/24/14,2021,87,184 cm,78 kg,Right,03/10/88,29,CM
-David Silva,Spain,LM,21,Manchester City,LCM,21,07/14/10,2019,87,173 cm,67 kg,Left,01/08/86,31,CAM/LM
-Samir Handanovic,Slovenia,NULL,NULL,Inter,GK,1,07/01/12,2019,87,193 cm,89 kg,Right,07/14/84,32,GK
-Piqué,Spain,RCB,3,FC Barcelona,RCB,3,07/01/08,2019,87,193 cm,85 kg,Right,02/02/87,30,CB
-Arjen Robben,Netherlands,RW,11,FC Bayern,RM,10,08/28/09,2018,87,180 cm,80 kg,Left,01/23/84,33,RM/RW
-Paulo Dybala,Argentina,Sub,21,Juventus,CAM,21,07/01/15,2020,86,177 cm,74 kg,Left,11/15/93,23,ST/CAM
-Marco Verratti,Italy,LCM,10,PSG,RCM,6,07/01/12,2021,86,165 cm,60 kg,Right,11/05/92,24,CM/CDM
-David Alaba,Austria,LM,8,FC Bayern,LB,27,02/10/10,2021,86,180 cm,76 kg,Left,06/24/92,24,LB/CM
-Henrikh Mkhitaryan,Armenia,NULL,NULL,Manchester Utd,RW,22,07/06/16,2020,86,177 cm,75 kg,Right,01/21/89,28,RM/CAM
-Bernd Leno,Germany,Sub,12,Bayer 04,GK,1,01/01/12,2018,86,190 cm,83 kg,Right,03/04/92,25,GK
-Thomas Müller,Germany,RM,13,FC Bayern,CAM,25,08/10/08,2021,86,186 cm,75 kg,Right,09/13/89,27,CF/CAM/ST
-Sergio Busquets,Spain,CDM,5,FC Barcelona,CDM,5,09/01/08,2021,86,189 cm,76 kg,Right,07/16/88,28,CDM/CM
-Thiago,Spain,Sub,10,FC Bayern,RDM,6,07/14/13,2019,86,174 cm,70 kg,Right,04/11/91,25,CM/CDM/LM
-Jordi Alba,Spain,LB,18,FC Barcelona,LCB,18,07/01/12,2020,86,170 cm,68 kg,Left,03/21/89,28,LB
-Coutinho,Brazil,RW,11,Liverpool,LW,10,01/30/13,2022,86,171 cm,68 kg,Right,06/12/92,24,LW/CAM
-Ángel Di María,Argentina,LW,11,PSG,RW,11,08/06/15,2019,86,180 cm,75 kg,Left,02/14/88,29,RW/CAM
-Diego Costa,Spain,ST,19,Chelsea,ST,19,07/15/14,2019,86,188 cm,85 kg,Right,10/07/88,28,ST
-Edinson Cavani,Uruguay,RS,21,PSG,ST,9,07/16/13,2018,86,184 cm,71 kg,Right,02/14/87,30,ST
-Radja Nainggolan,Belgium,Sub,16,Roma,LF,4,01/07/14,2020,86,176 cm,65 kg,Right,05/04/88,28,CM/CAM
-Marcelo,Brazil,LB,16,Real Madrid,LB,12,01/01/07,2020,86,174 cm,75 kg,Left,05/12/88,28,LB
-Claudio Marchisio,Italy,NULL,NULL,Juventus,Sub,8,06/01/07,2020,86,180 cm,75 kg,Right,01/19/86,31,CM/CDM
-Miranda,Brazil,RCB,3,Inter,RCB,25,07/03/15,2018,86,186 cm,78 kg,Right,09/07/84,32,CB
-Karim Benzema,France,NULL,NULL,Real Madrid,ST,9,07/01/09,2019,86,187 cm,79 kg,Right,12/19/87,29,ST
-Cesc Fàbregas,Spain,NULL,NULL,Chelsea,Sub,4,07/01/14,2019,86,175 cm,74 kg,Right,05/04/87,29,CM/CAM
-Franck Ribéry,France,NULL,NULL,FC Bayern,Sub,7,07/01/07,2018,86,170 cm,72 kg,Right,04/07/83,33,LM/LW
-Santi Cazorla,Spain,NULL,NULL,Arsenal,Sub,19,08/07/12,2018,86,168 cm,66 kg,Right,12/13/84,32,CAM/CDM
-Andrea Barzagli,Italy,RCB,15,Juventus,Sub,15,01/01/11,2018,86,187 cm,88 kg,Right,05/08/81,35,CB
-Harry Kane,England,ST,9,Spurs,RS,10,07/01/10,2022,85,188 cm,86 kg,Right,07/28/93,23,ST
-Alexandre Lacazette,France,NULL,NULL,Olym. Lyonnais,ST,10,07/01/09,2019,85,175 cm,73 kg,Right,05/28/91,25,ST
-Keylor Navas,Costa Rica,NULL,NULL,Real Madrid,GK,1,08/04/14,2020,85,185 cm,78 kg,Right,12/15/86,30,GK
-Romelu Lukaku,Belgium,ST,9,Everton,ST,10,07/30/14,2019,85,190 cm,94 kg,Left,05/13/93,23,ST
-Christian Eriksen,Denmark,CM,10,Spurs,CAM,23,08/30/13,2018,85,180 cm,76 kg,Right,02/14/92,25,CAM/LM
-Ilkay Gündogan,Germany,NULL,NULL,Manchester City,Sub,8,07/01/16,2020,85,180 cm,80 kg,Right,10/24/90,26,CM/CDM
-Toby Alderweireld,Belgium,RCB,2,Spurs,CB,4,07/08/15,2020,85,187 cm,91 kg,Right,03/02/89,28,CB
-Willian,Brazil,Sub,19,Chelsea,Sub,22,08/28/13,2020,85,175 cm,75 kg,Right,08/09/88,28,RM/CAM
-Miralem Pjanic,Bosnia Herzegovina,NULL,NULL,Juventus,RDM,5,07/01/16,2021,85,180 cm,72 kg,Right,04/02/90,26,CM/CDM
-Juan Mata,Spain,NULL,NULL,Manchester Utd,Sub,8,01/25/14,2018,85,170 cm,63 kg,Left,04/28/88,28,CAM/CM
-Javi Martinez,Spain,Sub,4,FC Bayern,RCB,8,08/29/12,2021,85,190 cm,81 kg,Right,09/02/88,28,CB/CDM
-Dimitri Payet,France,LM,8,Olym. Marseille,LW,11,01/29/17,2021,85,175 cm,77 kg,Right,03/29/87,30,LM/LW
-Dries Mertens,Belgium,RF,14,Napoli,ST,14,07/01/13,2018,85,169 cm,61 kg,Right,05/06/87,29,LW/ST
-Sokratis,Greece,RCB,19,Bor. Dortmund,CB,25,07/01/13,2019,85,186 cm,85 kg,Right,06/09/88,28,CB
-Marek Hamšik,Slovakia,NULL,NULL,Napoli,LCM,17,07/01/07,2020,85,183 cm,79 kg,Right,07/27/87,29,CM
-Blaise Matuidi,France,LDM,14,PSG,LCM,14,07/01/11,2018,85,175 cm,70 kg,Left,04/09/87,29,CDM/CM
-Stéphane Ruffier,France,NULL,NULL,AS Saint-Étienne,GK,16,07/11/11,2021,85,188 cm,93 kg,Right,09/27/86,30,GK
-Laurent Koscielny,France,RCB,21,Arsenal,LCB,6,07/07/10,2020,85,186 cm,75 kg,Right,09/10/85,31,CB
-Filipe Luís,Brazil,Sub,6,Atlético Madrid,LB,3,07/29/15,2019,85,182 cm,77 kg,Left,08/09/85,31,LB
-Vincent Kompany,Belgium,CB,3,Manchester City,Sub,4,08/22/08,2019,85,193 cm,85 kg,Right,04/10/86,30,CB
-Aymeric Laporte,France,NULL,NULL,Athletic Bilbao,LCB,4,10/01/12,2020,84,189 cm,85 kg,Left,05/27/94,22,CB
-Yannick Carrasco,Belgium,LM,18,Atlético Madrid,LM,10,07/10/15,2022,84,180 cm,66 kg,Right,09/04/93,23,LM/LW
-Carvajal,Spain,RB,12,Real Madrid,RB,2,07/05/13,2020,84,173 cm,73 kg,Right,01/11/92,25,RB
-Riyad Mahrez,Algeria,NULL,NULL,Leicester City,RM,26,01/11/14,2020,84,179 cm,62 kg,Left,02/21/91,26,RM/CAM
-Raphaël Varane,France,NULL,NULL,Real Madrid,Sub,5,07/01/11,2020,84,191 cm,78 kg,Right,04/25/93,23,CB
-Mauro Icardi,Argentina,NULL,NULL,Inter,ST,9,07/09/13,2021,84,181 cm,75 kg,Right,02/19/93,24,ST
-Lorenzo Insigne,Italy,Sub,20,Napoli,LW,24,07/01/10,2019,84,163 cm,59 kg,Right,06/04/91,25,LW
-Isco,Spain,Sub,22,Real Madrid,Sub,22,07/03/13,2018,84,176 cm,74 kg,Right,04/21/92,24,CM/RM
-Koke,Spain,RCM,8,Atlético Madrid,RM,6,01/01/11,2019,84,178 cm,74 kg,Right,01/08/92,25,CM/RM
-Kostas Manolas,Greece,LCB,4,Roma,RCB,44,08/26/14,2019,84,189 cm,83 kg,Right,06/14/91,25,CB
-Danijel Subašic,Croatia,NULL,NULL,AS Monaco,GK,1,01/24/12,2019,84,191 cm,84 kg,Right,10/27/84,32,GK
-Nicolás Otamendi,Argentina,RCB,17,Manchester City,LCB,30,08/20/15,2020,84,183 cm,81 kg,Right,02/12/88,29,CB
-Shkodran Mustafi,Germany,Sub,2,Arsenal,RCB,20,08/30/16,2021,84,184 cm,82 kg,Right,04/17/92,24,CB
-Nemanja Matic,Serbia,NULL,NULL,Chelsea,LCM,21,01/15/14,2019,84,194 cm,84 kg,Left,08/01/88,28,CDM/CM
-Alex Sandro,Brazil,NULL,NULL,Juventus,LB,12,08/21/15,2020,84,181 cm,76 kg,Left,01/26/91,26,LB/LM
+"name","nationality","nat_position","nat_kit","club","club_position","club_kit","club_join","contract_expiration","rate","height","weight","pref_foot","birth","age","pref_position"
+"Cristiano Ronaldo","Portugal","LS",7,"Real Madrid","LW",7,"07/01/09",2021,94,"185 cm","80 kg","Right","02/05/85",32,"LW/ST"
+"Lionel Messi","Argentina","RW",10,"FC Barcelona","RW",10,"07/01/04",2018,93,"170 cm","72 kg","Left","06/24/87",29,"RW"
+"Neymar","Brazil","LW",10,"FC Barcelona","LW",11,"07/01/13",2021,92,"174 cm","68 kg","Right","02/05/92",25,"LW"
+"Luis Su*rez","Uruguay","LS",9,"FC Barcelona","ST",9,"07/11/14",2021,92,"182 cm","85 kg","Right","01/24/87",30,"ST"
+"Manuel Neuer","Germany","GK",1,"FC Bayern","GK",1,"07/01/11",2021,92,"193 cm","92 kg","Right","03/27/86",31,"GK"
+"De Gea","Spain","GK",1,"Manchester Utd","GK",1,"07/01/11",2019,90,"193 cm","82 kg","Right","11/07/90",26,"GK"
+"Robert Lewandowski","Poland","LS",9,"FC Bayern","ST",9,"07/01/14",2021,90,"185 cm","79 kg","Right","08/21/88",28,"ST"
+"Gareth Bale","Wales","RS",11,"Real Madrid","RW",11,"09/02/13",2022,90,"183 cm","74 kg","Left","07/16/89",27,"RW"
+"Zlatan Ibrahimovic","Sweden","NULL","NULL","Manchester Utd","ST",9,"07/01/16",2017,90,"195 cm","95 kg","Right","10/03/81",35,"ST"
+"Thibaut Courtois","Belgium","GK",1,"Chelsea","GK",13,"07/26/11",2019,89,"199 cm","91 kg","Left","05/11/92",24,"GK"
+"J*r*me Boateng","Germany","RCB",17,"FC Bayern","Sub",17,"07/14/11",2021,89,"192 cm","90 kg","Right","09/03/88",28,"CB"
+"Eden Hazard","Belgium","LF",10,"Chelsea","LW",10,"07/01/12",2020,89,"173 cm","74 kg","Right","01/07/91",26,"LW/LM"
+"Luka Modric","Croatia","NULL","NULL","Real Madrid","RCM",19,"08/01/12",2020,89,"174 cm","65 kg","Right","09/09/85",31,"CM/CDM"
+"Mesut *zil","Germany","CAM",10,"Arsenal","CAM",11,"09/02/13",2018,89,"180 cm","76 kg","Left","10/15/88",28,"CAM/LW"
+"Gonzalo Higua*n","Argentina","Sub",9,"Juventus","ST",9,"07/26/16",2021,89,"184 cm","92 kg","Right","12/10/87",29,"ST"
+"Thiago Silva","Brazil","Sub",14,"PSG","LCB",2,"07/01/12",2020,89,"183 cm","79 kg","Right","09/22/84",32,"CB"
+"Sergio Ramos","Spain","LCB",15,"Real Madrid","LCB",4,"08/01/05",2020,89,"183 cm","75 kg","Right","03/30/86",31,"CB"
+"Sergio Ag*ero","Argentina","Sub",7,"Manchester City","ST",10,"07/28/11",2020,89,"173 cm","70 kg","Right","06/02/88",28,"ST"
+"Paul Pogba","France","NULL","NULL","Manchester Utd","LCM",6,"08/09/16",2021,88,"191 cm","84 kg","Right","03/15/93",24,"CM/CAM"
+"Antoine Griezmann","France","CAM",7,"Atl*tico Madrid","RS",7,"07/29/14",2021,88,"176 cm","67 kg","Left","03/21/91",26,"ST/LW"
+"Kevin De Bruyne","Belgium","RCM",7,"Manchester City","RCM",17,"08/30/15",2021,88,"181 cm","68 kg","Right","06/28/91",25,"CAM/RM/LM"
+"Marco Reus","Germany","NULL","NULL","Bor. Dortmund","LW",11,"07/01/12",2019,88,"182 cm","76 kg","Right","05/31/89",27,"LM/CAM"
+"Alexis S*nchez","Chile","LW",7,"Arsenal","ST",7,"07/10/14",2018,88,"169 cm","62 kg","Right","12/19/88",28,"ST/RM"
+"Toni Kroos","Germany","LDM",8,"Real Madrid","LCM",8,"07/17/14",2022,88,"182 cm","78 kg","Right","01/04/90",27,"CM/CDM"
+"Diego God*n","Uruguay","LCB",3,"Atl*tico Madrid","LCB",2,"08/01/10",2019,88,"185 cm","73 kg","Right","02/16/86",31,"CB"
+"Mats Hummels","Germany","LCB",5,"FC Bayern","LCB",5,"07/01/16",2021,88,"191 cm","92 kg","Right","12/16/88",28,"CB"
+"Hugo Lloris","France","GK",1,"Spurs","GK",1,"08/01/12",2022,88,"188 cm","82 kg","Left","12/26/86",30,"GK"
+"Giorgio Chiellini","Italy","LCB",3,"Juventus","LCB",3,"07/01/05",2018,88,"187 cm","84 kg","Left","08/14/84",32,"CB"
+"Philipp Lahm","Germany","NULL","NULL","FC Bayern","RB",21,"11/01/02",2018,88,"170 cm","66 kg","Right","11/11/83",33,"RB/CM"
+"Pepe","Portugal","RCB",3,"Real Madrid","RCB",3,"07/01/07",2017,88,"188 cm","81 kg","Right","02/26/83",34,"CB"
+"Petr Cech","Czech Republic","NULL","NULL","Arsenal","GK",33,"06/29/15",2019,88,"196 cm","90 kg","Left","05/20/82",34,"GK"
+"Gianluigi Buffon","Italy","GK",1,"Juventus","GK",1,"07/01/01",2018,88,"192 cm","91 kg","Right","01/28/78",39,"GK"
+"Iniesta","Spain","LCM",6,"FC Barcelona","LM",8,"07/01/02",2018,88,"171 cm","68 kg","Right","05/11/84",32,"CM"
+"Jan Oblak","Slovenia","GK",1,"Atl*tico Madrid","GK",13,"07/17/14",2021,87,"189 cm","87 kg","Right","01/07/93",24,"GK"
+"James Rodr*guez","Colombia","LAM",10,"Real Madrid","CAM",10,"07/22/14",2020,87,"180 cm","75 kg","Left","07/12/91",25,"CAM/RM"
+"Pierre-Emerick Aubameyang","Gabon","NULL","NULL","Bor. Dortmund","ST",17,"07/04/13",2020,87,"187 cm","80 kg","Right","06/18/89",27,"ST/RM"
+"Leonardo Bonucci","Italy","CB",19,"Juventus","RCB",19,"07/01/10",2021,87,"190 cm","85 kg","Right","05/01/87",29,"CB"
+"Arturo Vidal","Chile","CDM",8,"FC Bayern","LDM",23,"07/28/15",2019,87,"180 cm","75 kg","Right","05/22/87",29,"CM/CDM"
+"Ivan Rakitic","Croatia","NULL","NULL","FC Barcelona","CAM",4,"06/24/14",2021,87,"184 cm","78 kg","Right","03/10/88",29,"CM"
+"David Silva","Spain","LM",21,"Manchester City","LCM",21,"07/14/10",2019,87,"173 cm","67 kg","Left","01/08/86",31,"CAM/LM"
+"Samir Handanovic","Slovenia","NULL","NULL","Inter","GK",1,"07/01/12",2019,87,"193 cm","89 kg","Right","07/14/84",32,"GK"
+"Piqu*","Spain","RCB",3,"FC Barcelona","RCB",3,"07/01/08",2019,87,"193 cm","85 kg","Right","02/02/87",30,"CB"
+"Arjen Robben","Netherlands","RW",11,"FC Bayern","RM",10,"08/28/09",2018,87,"180 cm","80 kg","Left","01/23/84",33,"RM/RW"
+"Paulo Dybala","Argentina","Sub",21,"Juventus","CAM",21,"07/01/15",2020,86,"177 cm","74 kg","Left","11/15/93",23,"ST/CAM"
+"Marco Verratti","Italy","LCM",10,"PSG","RCM",6,"07/01/12",2021,86,"165 cm","60 kg","Right","11/05/92",24,"CM/CDM"
+"David Alaba","Austria","LM",8,"FC Bayern","LB",27,"02/10/10",2021,86,"180 cm","76 kg","Left","06/24/92",24,"LB/CM"
+"Henrikh Mkhitaryan","Armenia","NULL","NULL","Manchester Utd","RW",22,"07/06/16",2020,86,"177 cm","75 kg","Right","01/21/89",28,"RM/CAM"
+"Bernd Leno","Germany","Sub",12,"Bayer 04","GK",1,"01/01/12",2018,86,"190 cm","83 kg","Right","03/04/92",25,"GK"
+"Thomas M*ller","Germany","RM",13,"FC Bayern","CAM",25,"08/10/08",2021,86,"186 cm","75 kg","Right","09/13/89",27,"CF/CAM/ST"
+"Sergio Busquets","Spain","CDM",5,"FC Barcelona","CDM",5,"09/01/08",2021,86,"189 cm","76 kg","Right","07/16/88",28,"CDM/CM"
+"Thiago","Spain","Sub",10,"FC Bayern","RDM",6,"07/14/13",2019,86,"174 cm","70 kg","Right","04/11/91",25,"CM/CDM/LM"
+"Jordi Alba","Spain","LB",18,"FC Barcelona","LCB",18,"07/01/12",2020,86,"170 cm","68 kg","Left","03/21/89",28,"LB"
+"Coutinho","Brazil","RW",11,"Liverpool","LW",10,"01/30/13",2022,86,"171 cm","68 kg","Right","06/12/92",24,"LW/CAM"
+"*ngel Di Mar*a","Argentina","LW",11,"PSG","RW",11,"08/06/15",2019,86,"180 cm","75 kg","Left","02/14/88",29,"RW/CAM"
+"Diego Costa","Spain","ST",19,"Chelsea","ST",19,"07/15/14",2019,86,"188 cm","85 kg","Right","10/07/88",28,"ST"
+"Edinson Cavani","Uruguay","RS",21,"PSG","ST",9,"07/16/13",2018,86,"184 cm","71 kg","Right","02/14/87",30,"ST"
+"Radja Nainggolan","Belgium","Sub",16,"Roma","LF",4,"01/07/14",2020,86,"176 cm","65 kg","Right","05/04/88",28,"CM/CAM"
+"Marcelo","Brazil","LB",16,"Real Madrid","LB",12,"01/01/07",2020,86,"174 cm","75 kg","Left","05/12/88",28,"LB"
+"Claudio Marchisio","Italy","NULL","NULL","Juventus","Sub",8,"06/01/07",2020,86,"180 cm","75 kg","Right","01/19/86",31,"CM/CDM"
+"Miranda","Brazil","RCB",3,"Inter","RCB",25,"07/03/15",2018,86,"186 cm","78 kg","Right","09/07/84",32,"CB"
+"Karim Benzema","France","NULL","NULL","Real Madrid","ST",9,"07/01/09",2019,86,"187 cm","79 kg","Right","12/19/87",29,"ST"
+"Cesc F*bregas","Spain","NULL","NULL","Chelsea","Sub",4,"07/01/14",2019,86,"175 cm","74 kg","Right","05/04/87",29,"CM/CAM"
+"Franck Rib*ry","France","NULL","NULL","FC Bayern","Sub",7,"07/01/07",2018,86,"170 cm","72 kg","Right","04/07/83",33,"LM/LW"
+"Santi Cazorla","Spain","NULL","NULL","Arsenal","Sub",19,"08/07/12",2018,86,"168 cm","66 kg","Right","12/13/84",32,"CAM/CDM"
+"Andrea Barzagli","Italy","RCB",15,"Juventus","Sub",15,"01/01/11",2018,86,"187 cm","88 kg","Right","05/08/81",35,"CB"
+"Harry Kane","England","ST",9,"Spurs","RS",10,"07/01/10",2022,85,"188 cm","86 kg","Right","07/28/93",23,"ST"
+"Alexandre Lacazette","France","NULL","NULL","Olym. Lyonnais","ST",10,"07/01/09",2019,85,"175 cm","73 kg","Right","05/28/91",25,"ST"
+"Keylor Navas","Costa Rica","NULL","NULL","Real Madrid","GK",1,"08/04/14",2020,85,"185 cm","78 kg","Right","12/15/86",30,"GK"
+"Romelu Lukaku","Belgium","ST",9,"Everton","ST",10,"07/30/14",2019,85,"190 cm","94 kg","Left","05/13/93",23,"ST"
+"Christian Eriksen","Denmark","CM",10,"Spurs","CAM",23,"08/30/13",2018,85,"180 cm","76 kg","Right","02/14/92",25,"CAM/LM"
+"Ilkay G*ndogan","Germany","NULL","NULL","Manchester City","Sub",8,"07/01/16",2020,85,"180 cm","80 kg","Right","10/24/90",26,"CM/CDM"
+"Toby Alderweireld","Belgium","RCB",2,"Spurs","CB",4,"07/08/15",2020,85,"187 cm","91 kg","Right","03/02/89",28,"CB"
+"Willian","Brazil","Sub",19,"Chelsea","Sub",22,"08/28/13",2020,85,"175 cm","75 kg","Right","08/09/88",28,"RM/CAM"
+"Miralem Pjanic","Bosnia Herzegovina","NULL","NULL","Juventus","RDM",5,"07/01/16",2021,85,"180 cm","72 kg","Right","04/02/90",26,"CM/CDM"
+"Juan Mata","Spain","NULL","NULL","Manchester Utd","Sub",8,"01/25/14",2018,85,"170 cm","63 kg","Left","04/28/88",28,"CAM/CM"
+"Javi Martinez","Spain","Sub",4,"FC Bayern","RCB",8,"08/29/12",2021,85,"190 cm","81 kg","Right","09/02/88",28,"CB/CDM"
+"Dimitri Payet","France","LM",8,"Olym. Marseille","LW",11,"01/29/17",2021,85,"175 cm","77 kg","Right","03/29/87",30,"LM/LW"
+"Dries Mertens","Belgium","RF",14,"Napoli","ST",14,"07/01/13",2018,85,"169 cm","61 kg","Right","05/06/87",29,"LW/ST"
+"Sokratis","Greece","RCB",19,"Bor. Dortmund","CB",25,"07/01/13",2019,85,"186 cm","85 kg","Right","06/09/88",28,"CB"
+"Marek Ham*ik","Slovakia","NULL","NULL","Napoli","LCM",17,"07/01/07",2020,85,"183 cm","79 kg","Right","07/27/87",29,"CM"
+"Blaise Matuidi","France","LDM",14,"PSG","LCM",14,"07/01/11",2018,85,"175 cm","70 kg","Left","04/09/87",29,"CDM/CM"
+"St*phane Ruffier","France","NULL","NULL","AS Saint-*tienne","GK",16,"07/11/11",2021,85,"188 cm","93 kg","Right","09/27/86",30,"GK"
+"Laurent Koscielny","France","RCB",21,"Arsenal","LCB",6,"07/07/10",2020,85,"186 cm","75 kg","Right","09/10/85",31,"CB"
+"Filipe Lu*s","Brazil","Sub",6,"Atl*tico Madrid","LB",3,"07/29/15",2019,85,"182 cm","77 kg","Left","08/09/85",31,"LB"
+"Vincent Kompany","Belgium","CB",3,"Manchester City","Sub",4,"08/22/08",2019,85,"193 cm","85 kg","Right","04/10/86",30,"CB"
+"Aymeric Laporte","France","NULL","NULL","Athletic Bilbao","LCB",4,"10/01/12",2020,84,"189 cm","85 kg","Left","05/27/94",22,"CB"
+"Yannick Carrasco","Belgium","LM",18,"Atl*tico Madrid","LM",10,"07/10/15",2022,84,"180 cm","66 kg","Right","09/04/93",23,"LM/LW"
+"Carvajal","Spain","RB",12,"Real Madrid","RB",2,"07/05/13",2020,84,"173 cm","73 kg","Right","01/11/92",25,"RB"
+"Riyad Mahrez","Algeria","NULL","NULL","Leicester City","RM",26,"01/11/14",2020,84,"179 cm","62 kg","Left","02/21/91",26,"RM/CAM"
+"Rapha*l Varane","France","NULL","NULL","Real Madrid","Sub",5,"07/01/11",2020,84,"191 cm","78 kg","Right","04/25/93",23,"CB"
+"Mauro Icardi","Argentina","NULL","NULL","Inter","ST",9,"07/09/13",2021,84,"181 cm","75 kg","Right","02/19/93",24,"ST"
+"Lorenzo Insigne","Italy","Sub",20,"Napoli","LW",24,"07/01/10",2019,84,"163 cm","59 kg","Right","06/04/91",25,"LW"
+"Isco","Spain","Sub",22,"Real Madrid","Sub",22,"07/03/13",2018,84,"176 cm","74 kg","Right","04/21/92",24,"CM/RM"
+"Koke","Spain","RCM",8,"Atl*tico Madrid","RM",6,"01/01/11",2019,84,"178 cm","74 kg","Right","01/08/92",25,"CM/RM"
+"Kostas Manolas","Greece","LCB",4,"Roma","RCB",44,"08/26/14",2019,84,"189 cm","83 kg","Right","06/14/91",25,"CB"
+"Danijel Suba*ic","Croatia","NULL","NULL","AS Monaco","GK",1,"01/24/12",2019,84,"191 cm","84 kg","Right","10/27/84",32,"GK"
+"Nicol*s Otamendi","Argentina","RCB",17,"Manchester City","LCB",30,"08/20/15",2020,84,"183 cm","81 kg","Right","02/12/88",29,"CB"
+"Shkodran Mustafi","Germany","Sub",2,"Arsenal","RCB",20,"08/30/16",2021,84,"184 cm","82 kg","Right","04/17/92",24,"CB"
+"Nemanja Matic","Serbia","NULL","NULL","Chelsea","LCM",21,"01/15/14",2019,84,"194 cm","84 kg","Left","08/01/88",28,"CDM/CM"
+"Alex Sandro","Brazil","NULL","NULL","Juventus","LB",12,"08/21/15",2020,84,"181 cm","76 kg","Left","01/26/91",26,"LB/LM"
